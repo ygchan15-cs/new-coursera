@@ -1,4 +1,4 @@
 # new-coursera
 
-## relearning commenting
+## relearning basics
 
